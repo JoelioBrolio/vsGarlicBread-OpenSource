@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Toasty", "garlicbread", [148, 22, 83]]
+	],
+
+	"weekCharacters": [
+		"empty",
+		"empty",
+		"empty"
+	],
+	"weekBackground": "bread",
+
+	"storyName": "Garlic Bread",
+	"weekBefore": "week6",
+	"weekName": "Week 69",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

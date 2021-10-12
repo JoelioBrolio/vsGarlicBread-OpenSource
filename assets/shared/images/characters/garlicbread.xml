@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="garlicbread.png"><SubTexture name="garlicbread IDLE0000" x="0" y="0" width="588" height="455" frameX="0" frameY="0" frameWidth="588" frameHeight="455" />
+<SubTexture name="garlicbread IDLE0001" x="588" y="0" width="588" height="455" frameX="0" frameY="0" frameWidth="588" frameHeight="455" />
+<SubTexture name="garlicbread IDLE0002" x="1176" y="0" width="588" height="455" frameX="0" frameY="0" frameWidth="588" frameHeight="455" />
+<SubTexture name="garlicbread IDLE0003" x="0" y="455" width="588" height="455" frameX="0" frameY="0" frameWidth="588" frameHeight="455" />
+<SubTexture name="garlicbread IDLE0004" x="588" y="455" width="588" height="455" frameX="0" frameY="0" frameWidth="588" frameHeight="455" />
+<SubTexture name="garlicbread IDLE0005" x="1176" y="455" width="588" height="455" frameX="0" frameY="0" frameWidth="588" frameHeight="455" />
+<SubTexture name="garlicbread LEFT0000" x="0" y="910" width="588" height="455" frameX="0" frameY="0" frameWidth="588" frameHeight="455" />
+<SubTexture name="garlicbread LEFT0001" x="588" y="910" width="588" height="455" frameX="0" frameY="0" frameWidth="588" frameHeight="455" />
+<SubTexture name="garlicbread DOWN0000" x="1176" y="910" width="588" height="455" frameX="0" frameY="0" frameWidth="588" frameHeight="455" />
+<SubTexture name="garlicbread DOWN0001" x="0" y="1365" width="588" height="455" frameX="0" frameY="0" frameWidth="588" frameHeight="455" />
+<SubTexture name="garlicbread UP0000" x="588" y="1365" width="588" height="455" frameX="0" frameY="0" frameWidth="588" frameHeight="455" />
+<SubTexture name="garlicbread UP0001" x="1176" y="1365" width="588" height="455" frameX="0" frameY="0" frameWidth="588" frameHeight="455" />
+<SubTexture name="garlicbread RIGHT0000" x="0" y="1820" width="588" height="455" frameX="0" frameY="0" frameWidth="588" frameHeight="455" />
+<SubTexture name="garlicbread RIGHT0001" x="588" y="1820" width="588" height="455" frameX="0" frameY="0" frameWidth="588" frameHeight="455" />
+</TextureAtlas>

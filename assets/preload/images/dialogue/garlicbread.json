@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		30
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "garlicbread IDLE LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "garlicbread IDLE",
+			"anim": "idle",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "garlicbread LEFT LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "garlicbread LEFT",
+			"anim": "left",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "garlicbread DOWN LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "garlicbread DOWN",
+			"anim": "down",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "garlicbread UP LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "garlicbread UP",
+			"anim": "up",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "garlicbread RIGHT LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "garlicbread RIGHT",
+			"anim": "right",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "garlicbread_Dialogue"
+}

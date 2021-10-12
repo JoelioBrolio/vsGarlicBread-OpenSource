@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "garlicbread",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bread"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garlicbread",
+			"boxState": "normal",
+			"expression": "up",
+			"text": "garlic"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bap bip???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garlicbread",
+			"boxState": "normal",
+			"expression": "left",
+			"text": "garlic bread"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bap bip????????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garlicbread",
+			"boxState": "angry",
+			"expression": "right",
+			"text": "i will show you the way of the bread"
+		}
+	]
+}
