@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "HEY ITS YOU",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ryebread"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ryebread",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "THE breadING MIDGET WHO breadING\\nINSULTED ME"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ryebread",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "IN THE RATINGS OR SOMETHING"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i don't recall"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ryebread",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I DON'T breadING CARE I AM GOING TO bread YOUR bread bread bread bread"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeesh"
+		}
+	]
+}

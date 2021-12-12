@@ -1,53 +1,53 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
-			"portrait": "garlicbread",
+			"expression": "normal",
+			"text": "bread",
 			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "garlicbread"
+		},
+		{
 			"expression": "talk",
-			"text": "bread"
+			"text": "beep??",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
+			"expression": "challenge",
+			"text": "garlic",
 			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "garlicbread"
+		},
+		{
 			"expression": "talk",
-			"text": "beep??"
+			"text": "bap bip???",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "garlicbread",
+			"expression": "bored",
+			"text": "garlic bread",
 			"boxState": "normal",
-			"expression": "up",
-			"text": "garlic"
+			"speed": 0.05,
+			"portrait": "garlicbread"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "bap bip???"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "garlicbread",
+			"text": "beep bap bip????????",
 			"boxState": "normal",
-			"expression": "left",
-			"text": "garlic bread"
+			"speed": 0.05,
+			"portrait": "bf"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "beep bap bip????????"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "garlicbread",
+			"expression": "challenge",
+			"text": "i will show you the way of the bread",
 			"boxState": "angry",
-			"expression": "right",
-			"text": "i will show you the way of the bread"
+			"speed": 0.05,
+			"portrait": "garlicbread"
 		}
 	]
 }

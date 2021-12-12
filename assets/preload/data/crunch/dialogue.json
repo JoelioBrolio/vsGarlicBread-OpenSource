@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "beep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "ok cool but",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "garlicbread"
+		},
+		{
+			"expression": "challenge",
+			"text": "can you like",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "garlicbread"
+		},
+		{
+			"expression": "bored",
+			"text": "stop speaking in beeps",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "garlicbread"
+		},
+		{
+			"expression": "talk",
+			"text": "oh okay",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "wait it was that easy??",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "garlicbread"
+		},
+		{
+			"expression": "excited",
+			"text": "yeah",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "cool",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "garlicbread"
+		},
+		{
+			"expression": "challenge",
+			"text": "anyway let us continue your lessons in garlic bread",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "garlicbread"
+		}
+	]
+}

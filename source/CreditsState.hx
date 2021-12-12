@@ -24,11 +24,14 @@ class CreditsState extends MusicBeatState
 	private var iconArray:Array<AttachedSprite> = [];
 
 	private static var creditsStuff:Array<Dynamic> = [ //Name - Icon name - Description - Link - BG Color
-		['Garlic Bread Makers'],
-		['dasher', 'dasher', 'Made the bread art', '', 0xFFFFFFFF],
-		['Kreagato', 'kreagato', 'Made the bread music', '', 0xFFFFFFFF],
-		['JT1031', 'jt', 'Made the bread chart', '', 0xFFFFFFFF],
-		['JoelioBrolio', 'joeliobrolio', 'Made the bread code', '', 0xFFFFFFFF],
+		['Garlic Bread Team'],
+		['dasher', 'dasher', 'Sprite and background artist, and charter', '', 0xFFFFFFFF],
+		['Kreagato', 'kreagato', 'Musician', '', 0xFFFFFFFF],
+		['JoelioBrolio', 'joeliobrolio', 'Programmer and charter', '', 0xFFFFFFFF],
+		['Meezeeq', 'meez', 'Dialogue portrait and cutscene artist', '', 0xFFFFFFFF],
+		['bun', 'bun', 'Charter', '', 0xFFFFFFFF],
+		['ads', 'ads', 'cool person :)', '', 0xFFFFFFFF],
+		[''],
 		['Psych Engine Team'],
 		['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	0xFFFFDD33],
 		['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',				'https://twitter.com/river_oaken',		0xFFC30085],

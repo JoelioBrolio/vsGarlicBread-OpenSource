@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Ryekt", "ryebreadfake", [148, 22, 83]]
+	],
+
+	"weekCharacters": [
+		"empty",
+		"empty",
+		"empty"
+	],
+	"weekBackground": "rye",
+
+	"storyName": "Revenge of the Rye Bread",
+	"weekBefore": "BREAD",
+	"weekName": "RYE",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

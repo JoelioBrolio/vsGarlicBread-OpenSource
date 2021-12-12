@@ -1,0 +1,164 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				210,
+				-105
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "rye bread left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				210,
+				-105
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "rye bread down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				210,
+				-105
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "rye bread up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				210,
+				-105
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rye bread right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				210,
+				-105
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "rye bread idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "rye bread idle"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "rye bread left"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "rye bread right"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "rye bread up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-105
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "rye bread attack",
+			"indices": []
+		},
+		{
+			"offsets": [
+				210,
+				-105
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "ugh",
+			"loop": false,
+			"name": "rye bread ugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ryebread",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ryebread",
+	"flip_x": false,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		-120,
+		225
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

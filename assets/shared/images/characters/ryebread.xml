@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ryebread.png"><SubTexture name="rye bread attack10000" x="0" y="0" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="rye bread attack20000" x="1104" y="0" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="rye bread attack30000" x="2208" y="0" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="rye bread attack40000" x="3312" y="0" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="rye bread attack50000" x="4416" y="0" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="rye bread attack60000" x="0" y="704" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="rye bread attack70000" x="1104" y="704" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="rye bread attack80000" x="2208" y="704" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="rye bread down10000" x="3312" y="704" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="rye bread down20000" x="4416" y="704" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="rye bread idle10000" x="0" y="1408" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="rye bread idle20000" x="1104" y="1408" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="rye bread idle30000" x="2208" y="1408" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="rye bread idle40000" x="3312" y="1408" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="rye bread idle50000" x="4416" y="1408" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="rye bread left10000" x="0" y="2112" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="rye bread left20000" x="1104" y="2112" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="rye bread right10000" x="2208" y="2112" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="rye bread right20000" x="3312" y="2112" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="rye bread ugh10000" x="4416" y="2112" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="rye bread ugh20000" x="0" y="2816" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="rye bread ugh30000" x="1104" y="2816" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="rye bread ugh40000" x="2208" y="2816" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="rye bread up10000" x="3312" y="2816" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="rye bread up20000" x="4416" y="2816" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+</TextureAtlas>

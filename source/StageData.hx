@@ -45,8 +45,8 @@ class StageData {
 					stage = 'school';
 				case 'thorns':
 					stage = 'schoolEvil';
-				case 'toasty':
-					stage = 'garlic';
+				case 'toasty' | 'crunch' | 'kneaded' | 'ryekt':
+					stage = 'oven';
 				default:
 					stage = 'stage';
 			}

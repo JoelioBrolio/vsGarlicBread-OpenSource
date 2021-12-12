@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="garlic bread.png"><SubTexture name="garlic bread DOWN10000" x="0" y="0" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="garlic bread DOWN20000" x="1104" y="0" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="garlic bread IDLE10000" x="2208" y="0" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="garlic bread IDLE20000" x="0" y="704" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="garlic bread IDLE30000" x="1104" y="704" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="garlic bread IDLE40000" x="2208" y="704" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="garlic bread LEFT10000" x="0" y="1408" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="garlic bread LEFT20000" x="1104" y="1408" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="garlic bread RIGHT10000" x="2208" y="1408" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="garlic bread RIGHT20000" x="0" y="2112" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="garlic bread UP10000" x="1104" y="2112" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+<SubTexture name="garlic bread UP20000" x="2208" y="2112" width="1104" height="704" frameX="0" frameY="0" frameWidth="1104" frameHeight="704" />
+</TextureAtlas>

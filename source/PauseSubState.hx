@@ -19,7 +19,7 @@ class PauseSubState extends MusicBeatSubstate
 	var grpMenuShit:FlxTypedGroup<Alphabet>;
 
 	var menuItems:Array<String> = [];
-	var menuItemsOG:Array<String> = ['Resume', 'Restart Song', 'Change Difficulty', 'Toggle Practice Mode', 'Botplay', 'Exit to menu'];
+	var menuItemsOG:Array<String> = ['Resume', 'Restart Song', 'Change Difficulty', 'Toggle Practice Mode', 'Bad Player Toggle', 'Exit to menu'];
 	var difficultyChoices = [];
 	var curSelected:Int = 0;
 
@@ -54,35 +54,35 @@ class PauseSubState extends MusicBeatSubstate
 		var levelInfo:FlxText = new FlxText(20, 15, 0, "", 32);
 		levelInfo.text += PlayState.SONG.song;
 		levelInfo.scrollFactor.set();
-		levelInfo.setFormat(Paths.font("vcr.ttf"), 32);
+		levelInfo.setFormat(Paths.font("comic.ttf"), 32);
 		levelInfo.updateHitbox();
 		add(levelInfo);
 
 		var levelDifficulty:FlxText = new FlxText(20, 15 + 32, 0, "", 32);
 		levelDifficulty.text += CoolUtil.difficultyString();
 		levelDifficulty.scrollFactor.set();
-		levelDifficulty.setFormat(Paths.font('vcr.ttf'), 32);
+		levelDifficulty.setFormat(Paths.font('comic.ttf'), 32);
 		levelDifficulty.updateHitbox();
 		add(levelDifficulty);
 
 		var blueballedTxt:FlxText = new FlxText(20, 15 + 64, 0, "", 32);
 		blueballedTxt.text = "Blueballed: " + PlayState.deathCounter;
 		blueballedTxt.scrollFactor.set();
-		blueballedTxt.setFormat(Paths.font('vcr.ttf'), 32);
+		blueballedTxt.setFormat(Paths.font('comic.ttf'), 32);
 		blueballedTxt.updateHitbox();
 		add(blueballedTxt);
 
 		practiceText = new FlxText(20, 15 + 101, 0, "PRACTICE MODE", 32);
 		practiceText.scrollFactor.set();
-		practiceText.setFormat(Paths.font('vcr.ttf'), 32);
+		practiceText.setFormat(Paths.font('comic.ttf'), 32);
 		practiceText.x = FlxG.width - (practiceText.width + 20);
 		practiceText.updateHitbox();
 		practiceText.visible = PlayState.practiceMode;
 		add(practiceText);
 
-		botplayText = new FlxText(20, FlxG.height - 40, 0, "BOTPLAY", 32);
+		botplayText = new FlxText(20, FlxG.height - 40, 0, "SKILL ISSUE", 32);
 		botplayText.scrollFactor.set();
-		botplayText.setFormat(Paths.font('vcr.ttf'), 32);
+		botplayText.setFormat(Paths.font('comic.ttf'), 32);
 		botplayText.x = FlxG.width - (botplayText.width + 20);
 		botplayText.updateHitbox();
 		botplayText.visible = PlayState.cpuControlled;
@@ -170,7 +170,7 @@ class PauseSubState extends MusicBeatSubstate
 					CustomFadeTransition.nextCamera = transCamera;
 					MusicBeatState.resetState();
 					FlxG.sound.music.volume = 0;
-				case 'Botplay':
+				case 'Bad Player Toggle':
 					PlayState.cpuControlled = !PlayState.cpuControlled;
 					PlayState.usedPractice = true;
 					botplayText.visible = PlayState.cpuControlled;

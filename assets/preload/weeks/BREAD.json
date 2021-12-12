@@ -1,6 +1,8 @@
 {
 	"songs": [
-		["Toasty", "garlicbread", [148, 22, 83]]
+		["Toasty", "garlicbreadnew", [148, 22, 83]],
+		["Crunch", "garlicbreadnew", [148, 22, 83]],
+		["Kneaded", "garlicbreadnew", [148, 22, 83]]
 	],
 
 	"weekCharacters": [
@@ -11,8 +13,8 @@
 	"weekBackground": "bread",
 
 	"storyName": "Garlic Bread",
-	"weekBefore": "week6",
-	"weekName": "Week 69",
+	"weekBefore": "tutorial",
+	"weekName": "BREAD",
 	"startUnlocked": true,
 
 	"hideStoryMode": false,

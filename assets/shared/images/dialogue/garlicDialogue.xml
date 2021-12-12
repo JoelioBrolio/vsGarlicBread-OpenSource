@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="garlicDialogue.png"><SubTexture name="garlicDialogue bored0000" x="0" y="0" width="740" height="638" frameX="0" frameY="0" frameWidth="740" frameHeight="638" />
+<SubTexture name="garlicDialogue challenge0000" x="0" y="638" width="894" height="587" frameX="0" frameY="0" frameWidth="894" frameHeight="587" />
+<SubTexture name="garlicDialogue normal0000" x="0" y="1225" width="683" height="648" frameX="0" frameY="0" frameWidth="683" frameHeight="648" />
+</TextureAtlas>

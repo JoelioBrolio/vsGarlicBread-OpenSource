@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "challenge",
+			"text": "hmm yes you did good",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "garlicbread"
+		},
+		{
+			"expression": "pissed",
+			"text": "what the hell man i was great",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "bored",
+			"text": "ok yeah sure",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "garlicbread"
+		},
+		{
+			"expression": "up",
+			"text": "time for your last trial",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "garlicbread"
+		},
+		{
+			"expression": "challenge",
+			"text": "pass this and become a true fnf pro",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "garlicbread"
+		},
+		{
+			"expression": "excited",
+			"text": "lol ez",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "down",
+			"text": "or so you think.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "garlicbread"
+		}
+	]
+}

@@ -20,6 +20,7 @@ class Note extends FlxSprite
 	public var tooLate:Bool = false;
 	public var wasGoodHit:Bool = false;
 	public var ignoreNote:Bool = false;
+	public var noignoreNote:Bool = false;
 	public var hitByOpponent:Bool = false;
 	public var noteWasHit:Bool = false;
 	public var prevNote:Note;
@@ -48,6 +49,8 @@ class Note extends FlxSprite
 	public var noteSplashHue:Float = 0;
 	public var noteSplashSat:Float = 0;
 	public var noteSplashBrt:Float = 0;
+
+	public var hitsoundsDisabled:Bool = false;
 
 	public var offsetX:Float = 0;
 	public var offsetY:Float = 0;
@@ -96,6 +99,13 @@ class Note extends FlxSprite
 						missHealth = 0.3;
 					}
 					hitCausesMiss = true;
+				case 'Mallet Note':
+					noignoreNote = mustPress;
+					reloadNote('MALLET');
+					noteSplashTexture = 'noteSplashes';
+					colorSwap.hue = 0;
+					colorSwap.saturation = 0;
+					colorSwap.brightness = 0;
 				case 'No Animation':
 					noAnimation = true;
 			}

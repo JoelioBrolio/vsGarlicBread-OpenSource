@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-105
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "garlic bread LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-105
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "garlic bread DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-105
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "garlic bread UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-105
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "garlic bread RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-105
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "garlic bread IDLE"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "garlic bread IDLE",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "garlic bread LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "garlic bread RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "garlic bread UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				210,
+				-105
+			],
+			"loop": false,
+			"fps": 4,
+			"anim": "hey",
+			"indices": [],
+			"name": "garlic bread UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/garlicbreadnew",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "garlicdrain",
+	"flip_x": false,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		-120,
+		205
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

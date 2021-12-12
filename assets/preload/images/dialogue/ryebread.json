@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-170,
+		-140
+	],
+	"scale": 0.85,
+	"animations": [
+		{
+			"loop_name": "ryeDialogue happyfridayjustkidding",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ryeDialogue happyfridayjustkidding",
+			"anim": "happyfriday",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "ryeDialogue"
+}

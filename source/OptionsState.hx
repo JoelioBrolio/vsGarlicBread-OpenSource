@@ -668,7 +668,7 @@ class PreferencesSubstate extends MusicBeatSubstate
 	];
 	static var noCheckbox:Array<String> = [
 		'Framerate',
-		'Note Delay'
+		'Note Delay',
 	];
 
 	static var options:Array<String> = [
@@ -685,6 +685,7 @@ class PreferencesSubstate extends MusicBeatSubstate
 		'Ghost Tapping',
 		'Note Delay',
 		'Note Splashes',
+		'Hitsounds',
 		'Hide HUD',
 		'Hide Song Length',
 		'Flashing Lights',
@@ -846,6 +847,9 @@ class PreferencesSubstate extends MusicBeatSubstate
 					case 'Note Splashes':
 						ClientPrefs.noteSplashes = !ClientPrefs.noteSplashes;
 
+					case 'Hitsounds':
+						ClientPrefs.hitsounds = !ClientPrefs.hitsounds;
+
 					case 'Flashing Lights':
 						ClientPrefs.flashing = !ClientPrefs.flashing;
 
@@ -961,6 +965,8 @@ class PreferencesSubstate extends MusicBeatSubstate
 				daText = "If unchecked, you won't get disgusted as frequently.";
 			case 'Note Splashes':
 				daText = "If unchecked, hitting \"Sick!\" notes won't show particles.";
+			case 'Hitsounds':
+				daText = "If checked, hitting a note will play a sound.";
 			case 'Flashing Lights':
 				daText = "Uncheck this if you're sensitive to flashing lights!";
 			case 'Camera Zooms':
@@ -1021,6 +1027,8 @@ class PreferencesSubstate extends MusicBeatSubstate
 						daValue = ClientPrefs.globalAntialiasing;
 					case 'Note Splashes':
 						daValue = ClientPrefs.noteSplashes;
+					case 'Hitsounds':
+						daValue = ClientPrefs.hitsounds;
 					case 'Flashing Lights':
 						daValue = ClientPrefs.flashing;
 					case 'Downscroll':

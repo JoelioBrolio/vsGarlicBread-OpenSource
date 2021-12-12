@@ -1,0 +1,50 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-105
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "rye bread normal idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "rye bread normal idle",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ryebread-fake",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ryebreadfake",
+	"flip_x": false,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		-120,
+		225
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}
