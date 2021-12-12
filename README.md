@@ -1,2 +1,2 @@
 # Friday Night Funkin' - Bread Edition
-this mod is pretty good i think
+FULL WEEK UPDATE NOW OUT!
